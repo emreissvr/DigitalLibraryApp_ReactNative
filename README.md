@@ -1,10 +1,12 @@
-# week3-assignment-emreissvr
+# Logo cyber security and network technologies bootcamp assignment
 
 
 ## React Native Example (week3)
 - I created login, register, resetpassword, home, posts, users pages in the react native homework given by our teacher.
 - Firebase was used in the back-end part.
 - It was an extremely productive, instructive and thought-provoking process for me.
+- The project was done in 2 days. 
+- Developments on the project continue.
 
 ## Images about the application
 <img src="https://user-images.githubusercontent.com/80003871/154838090-2640902e-c2ad-4eb0-bcaa-7cf06fe32410.png" width="400" height="500"> <img src="https://user-images.githubusercontent.com/80003871/154838104-3869d3e2-599f-4198-b9bd-648ffbfda680.png" width="400" height="500">
